@@ -48,6 +48,9 @@ In the Social Internet of Things (SIoT), billions of autonomous smart devices es
 
 ```
 HDBO-MPA-SIoT/
+├── article.tex                  # Canonical LaTeX manuscript source
+├── article.docx                 # Synchronized Word manuscript document
+├── references.bib               # Crossref-verified BibTeX bibliography
 ├── requirements.txt             # Python environment dependencies
 ├── pyproject.toml               # Package build metadata
 ├── LICENSE                      # MIT Open Source License
