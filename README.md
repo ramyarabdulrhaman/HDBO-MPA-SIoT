@@ -2,10 +2,9 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Manuscript](https://img.shields.io/badge/Manuscript-PDF-red.svg)](article.pdf)
-[![Reproducibility](https://img.shields.io/badge/Reproducibility-Verified-success.svg)](reports/reproducibility_report.md)
+[![Algorithms: 11](https://img.shields.io/badge/Algorithms-11%20Baselines-green.svg)](#5-summary-of-experimental-results)
 
-This repository contains the official, fully reproducible implementation, experimental benchmarks, statistical validation, and publication manuscript for the research paper:
+This repository contains the official, fully reproducible implementation, experimental benchmarks, and source code for:
 
 > **A Hybrid Dung Beetle Optimization and Marine Predators Algorithm (HDBO-MPA) for Trust-Aware Multi-Objective Service Discovery in Social IoT**  
 > *Author:* Ramyar Abdulrahman  
@@ -49,9 +48,6 @@ In the Social Internet of Things (SIoT), billions of autonomous smart devices es
 
 ```
 HDBO-MPA-SIoT/
-├── article.pdf                  # Complete compiled publication manuscript
-├── article.tex                  # Canonical LaTeX manuscript source
-├── references.bib               # Crossref-verified BibTeX bibliography
 ├── requirements.txt             # Python environment dependencies
 ├── pyproject.toml               # Package build metadata
 ├── LICENSE                      # MIT Open Source License
@@ -81,8 +77,7 @@ HDBO-MPA-SIoT/
 ├── graph_instances/             # Pre-generated SIoT graph benchmarks (JSON)
 ├── figures/                     # Publication figures (High-resolution 300 DPI)
 ├── tables/                      # Benchmark summary tables (CSV & Markdown)
-├── reports/                     # Reproducibility & statistical audit reports
-└── scripts/                     # Figure and documentation generation scripts
+└── scripts/                     # Figure generation and visualization scripts
 ```
 
 ---
