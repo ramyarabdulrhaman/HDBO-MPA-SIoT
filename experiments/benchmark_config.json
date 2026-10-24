@@ -1,0 +1,63 @@
+{
+  "protocol": {
+    "evaluation_budget": 750,
+    "population_size": 30,
+    "max_iterations": 25,
+    "archive_capacity": 30,
+    "num_runs": 30,
+    "base_seed": 100,
+    "seeds": [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 
+              110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 
+              120, 121, 122, 123, 124, 125, 126, 127, 128, 129]
+  },
+  "datasets": {
+    "primary_snap": "data/raw/facebook_combined.txt",
+    "subgraphs": [
+      {"name": "SNAP_Small", "nodes": 100},
+      {"name": "SNAP_Medium", "nodes": 250},
+      {"name": "SNAP_Large", "nodes": 500},
+      {"name": "SNAP_XLarge", "nodes": 1000}
+    ],
+    "secondary": {
+      "name": "ScaleFree_Overlay_250",
+      "type": "barabasi_albert",
+      "nodes": 250,
+      "m": 8
+    }
+  },
+  "algorithms": [
+    "HDBO-MPA",
+    "DBO",
+    "MPA",
+    "NSGA-II",
+    "MO-PSO",
+    "MOEA/D",
+    "SPEA2",
+    "MOMPA",
+    "ACO",
+    "T-Greedy",
+    "Dijkstra"
+  ],
+  "trust_models": [
+    "Proposed_Composite",
+    "Beta_Reputation",
+    "EigenTrust"
+  ],
+  "attack_experiment": {
+    "malicious_ratios": [0.10, 0.20, 0.30, 0.40, 0.50, 0.60],
+    "attack_modes": ["mixed", "service_drop", "bad_mouthing", "collusion", "on_off", "sybil"]
+  },
+  "ablation_variants": [
+    {"code": "A0_Full_HDBO_MPA", "name": "Full Proposed HDBO-MPA", "config": {}},
+    {"code": "A1_DBO_Only", "name": "DBO Sub-Population Only", "config": {"optimizer": "DBO"}},
+    {"code": "A2_MPA_Only", "name": "MPA Sub-Population Only", "config": {"optimizer": "MPA"}},
+    {"code": "A3_No_Entropy_Weighting", "name": "Uniform Recommender Weights", "config": {"no_entropy": true}},
+    {"code": "A4_Direct_Trust_Only", "name": "Direct Trust Only", "config": {"direct_only": true}},
+    {"code": "A5_No_Social_Relationship", "name": "No Social Ties", "config": {"no_social": true}},
+    {"code": "A6_No_Indirect_Trust", "name": "No Recommender Feedback", "config": {"no_indirect": true}},
+    {"code": "A7_Sequential_Hybrid", "name": "Sequential Hybrid (DBO then MPA)", "config": {"sequential": true}},
+    {"code": "A8_Random_Selection", "name": "Random Priority Vector (No Heuristic Guidance)", "config": {"random_path": true}},
+    {"code": "A9_No_Loop_Erasure", "name": "Raw Continuous Rounding (No Wilson / Repair)", "config": {"no_loop_erasure": true}},
+    {"code": "A10_No_Archive_Crowding", "name": "Random Archive Pruning (No Crowding Distance)", "config": {"no_crowding": true}}
+  ]
+}

@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hdbo-mpa-siot"
+version = "1.0.0"
+description = "A Hybrid Dung Beetle Optimization and Marine Predators Algorithm for Trust-Aware Multi-Objective Service Discovery in Social IoT"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Ramyar Abdulrahman" }
+]
+keywords = [
+    "social-iot",
+    "service-discovery",
+    "trust-management",
+    "multi-objective-optimization",
+    "metaheuristics",
+    "dung-beetle-optimization",
+    "marine-predators-algorithm",
+    "pareto-optimization"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+dependencies = [
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+    "networkx>=3.0",
+    "matplotlib>=3.7.0"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ramyarabdulrhaman/HDBO-MPA-SIoT"
+"Repository" = "https://github.com/ramyarabdulrhaman/HDBO-MPA-SIoT"

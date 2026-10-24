@@ -1,0 +1,7 @@
+algorithm,iteration,eval_count,hypervolume
+HDBO-MPA,1,60,0.0
+HDBO-MPA,6,210,0.0
+HDBO-MPA,11,360,0.0
+HDBO-MPA,16,510,0.0
+HDBO-MPA,21,660,0.158
+HDBO-MPA,25,780,0.158

@@ -1,0 +1,74 @@
+{
+  "0": {
+    "name": "SmartCity_Service_0",
+    "base_latency_req": 45.57707193831535,
+    "min_trust_req": 0.6037516132834,
+    "energy_budget": 2.1875732959227983
+  },
+  "1": {
+    "name": "SmartCity_Service_1",
+    "base_latency_req": 28.92842952595291,
+    "min_trust_req": 0.7104706821246018,
+    "energy_budget": 3.191748718557278
+  },
+  "2": {
+    "name": "SmartCity_Service_2",
+    "base_latency_req": 55.687182708193816,
+    "min_trust_req": 0.6130408248944124,
+    "energy_budget": 2.554804549213176
+  },
+  "3": {
+    "name": "SmartCity_Service_3",
+    "base_latency_req": 21.191888777522813,
+    "min_trust_req": 0.6327956962205404,
+    "energy_budget": 2.763388220258406
+  },
+  "4": {
+    "name": "SmartCity_Service_4",
+    "base_latency_req": 21.061438787354547,
+    "min_trust_req": 0.6298256476029973,
+    "energy_budget": 3.124711094448808
+  },
+  "5": {
+    "name": "SmartCity_Service_5",
+    "base_latency_req": 41.797659224128665,
+    "min_trust_req": 0.6330660933061045,
+    "energy_budget": 2.973164209689772
+  },
+  "6": {
+    "name": "SmartCity_Service_6",
+    "base_latency_req": 52.377218267113065,
+    "min_trust_req": 0.6009748139517092,
+    "energy_budget": 3.51454812958202
+  },
+  "7": {
+    "name": "SmartCity_Service_7",
+    "base_latency_req": 47.92557579952907,
+    "min_trust_req": 0.6510375774776987,
+    "energy_budget": 1.8886987495294538
+  },
+  "8": {
+    "name": "SmartCity_Service_8",
+    "base_latency_req": 58.288522888271245,
+    "min_trust_req": 0.650489181766894,
+    "energy_budget": 1.7318646084503697
+  },
+  "9": {
+    "name": "SmartCity_Service_9",
+    "base_latency_req": 23.86865507333856,
+    "min_trust_req": 0.727124154952119,
+    "energy_budget": 3.009315078417228
+  },
+  "10": {
+    "name": "SmartCity_Service_10",
+    "base_latency_req": 52.28513093097521,
+    "min_trust_req": 0.7094597680040726,
+    "energy_budget": 2.840570228636752
+  },
+  "11": {
+    "name": "SmartCity_Service_11",
+    "base_latency_req": 58.92463055917482,
+    "min_trust_req": 0.656780156581253,
+    "energy_budget": 2.8801015781830674
+  }
+}

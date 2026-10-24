@@ -1,0 +1,3753 @@
+[
+  {
+    "node_id": 0,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.427779628546369,
+    "processing_energy": 0.17925603504661658,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      3,
+      4,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 1,
+    "device_type": "smart_device",
+    "processing_delay": 7.039177327051524,
+    "processing_energy": 0.4218490825045924,
+    "initial_energy": 12776.748353339717,
+    "residual_energy": 12776.748353339717,
+    "supported_services": [
+      3,
+      4,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 2,
+    "device_type": "smart_device",
+    "processing_delay": 5.939384518462868,
+    "processing_energy": 0.9250741577309418,
+    "initial_energy": 13732.796620605388,
+    "residual_energy": 13732.796620605388,
+    "supported_services": [
+      1,
+      2,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 3,
+    "device_type": "smart_device",
+    "processing_delay": 7.258356635256451,
+    "processing_energy": 0.6944251723948064,
+    "initial_energy": 10972.464410716286,
+    "residual_energy": 10972.464410716286,
+    "supported_services": [
+      2,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 4,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.1925199676614837,
+    "processing_energy": 0.09226575990556632,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      2,
+      3,
+      4,
+      6,
+      8,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 5,
+    "device_type": "sensor",
+    "processing_delay": 5.99083124393048,
+    "processing_energy": 1.572056408784844,
+    "initial_energy": 1670.580711832354,
+    "residual_energy": 1670.580711832354,
+    "supported_services": [
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 6,
+    "device_type": "sensor",
+    "processing_delay": 5.792257712707213,
+    "processing_energy": 0.883885892655567,
+    "initial_energy": 2669.9261985647618,
+    "residual_energy": 2669.9261985647618,
+    "supported_services": [
+      1,
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 7,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.9978870295720168,
+    "processing_energy": 0.06867125123665752,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 8,
+    "device_type": "sensor",
+    "processing_delay": 9.471296596702572,
+    "processing_energy": 1.5902215935666542,
+    "initial_energy": 2823.214461692561,
+    "residual_energy": 2823.214461692561,
+    "supported_services": [
+      4,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 9,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.7962457755436463,
+    "processing_energy": 0.1127202115002315,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      2,
+      3,
+      5,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 10,
+    "device_type": "smart_device",
+    "processing_delay": 7.800119783314853,
+    "processing_energy": 0.3721155380209929,
+    "initial_energy": 8528.950888563553,
+    "residual_energy": 8528.950888563553,
+    "supported_services": [
+      4,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 11,
+    "device_type": "smart_device",
+    "processing_delay": 7.057097881477774,
+    "processing_energy": 0.7380164830123594,
+    "initial_energy": 7857.483814410176,
+    "residual_energy": 7857.483814410176,
+    "supported_services": [
+      1,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 12,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.6639998673193672,
+    "processing_energy": 0.08435721079461567,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      4,
+      5,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 13,
+    "device_type": "smart_device",
+    "processing_delay": 3.5892809989883148,
+    "processing_energy": 0.3973020061551868,
+    "initial_energy": 10613.681341631509,
+    "residual_energy": 10613.681341631509,
+    "supported_services": [
+      6,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 14,
+    "device_type": "sensor",
+    "processing_delay": 5.194767423858323,
+    "processing_energy": 1.8936479243969258,
+    "initial_energy": 2757.443755646368,
+    "residual_energy": 2757.443755646368,
+    "supported_services": [
+      0,
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 15,
+    "device_type": "smart_device",
+    "processing_delay": 5.877078507769906,
+    "processing_energy": 0.24849013926161093,
+    "initial_energy": 12282.135884411826,
+    "residual_energy": 12282.135884411826,
+    "supported_services": [
+      3,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 16,
+    "device_type": "smart_device",
+    "processing_delay": 3.411223370005587,
+    "processing_energy": 0.2959092911576994,
+    "initial_energy": 13902.873141294374,
+    "residual_energy": 13902.873141294374,
+    "supported_services": [
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 17,
+    "device_type": "smart_device",
+    "processing_delay": 2.6712432835360103,
+    "processing_energy": 0.9560407512373112,
+    "initial_energy": 11910.196237558765,
+    "residual_energy": 11910.196237558765,
+    "supported_services": [
+      0,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 18,
+    "device_type": "sensor",
+    "processing_delay": 13.065628945762658,
+    "processing_energy": 0.721030943368659,
+    "initial_energy": 1092.4274361855169,
+    "residual_energy": 1092.4274361855169,
+    "supported_services": [
+      1,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 19,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.9710829662783849,
+    "processing_energy": 0.13011854442987567,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      3,
+      6,
+      8,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 20,
+    "device_type": "sensor",
+    "processing_delay": 6.2184834515861755,
+    "processing_energy": 0.857659255189734,
+    "initial_energy": 2277.9034643456207,
+    "residual_energy": 2277.9034643456207,
+    "supported_services": [
+      1,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 21,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.565301637750165,
+    "processing_energy": 0.10803219822910365,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      4,
+      5,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 22,
+    "device_type": "smart_device",
+    "processing_delay": 5.769541774853939,
+    "processing_energy": 0.8172010992878873,
+    "initial_energy": 12351.869848123111,
+    "residual_energy": 12351.869848123111,
+    "supported_services": [
+      0,
+      2,
+      5
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 23,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.5946508055483369,
+    "processing_energy": 0.16642855995551328,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      2,
+      3,
+      4,
+      8,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 24,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.2730753838817481,
+    "processing_energy": 0.19836840534441852,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 25,
+    "device_type": "smart_device",
+    "processing_delay": 4.985140354961764,
+    "processing_energy": 0.9394483733015708,
+    "initial_energy": 10192.75853534942,
+    "residual_energy": 10192.75853534942,
+    "supported_services": [
+      6,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 26,
+    "device_type": "smart_device",
+    "processing_delay": 4.629036949640466,
+    "processing_energy": 0.3009840194418034,
+    "initial_energy": 7359.953804203523,
+    "residual_energy": 7359.953804203523,
+    "supported_services": [
+      0,
+      5,
+      6,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 27,
+    "device_type": "smart_device",
+    "processing_delay": 6.07437234148037,
+    "processing_energy": 0.9590588234124453,
+    "initial_energy": 8720.133784706837,
+    "residual_energy": 8720.133784706837,
+    "supported_services": [
+      2,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 28,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.928365316547237,
+    "processing_energy": 0.18747183643128223,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 29,
+    "device_type": "sensor",
+    "processing_delay": 5.87790741104731,
+    "processing_energy": 1.5228938903759557,
+    "initial_energy": 2691.042437949399,
+    "residual_energy": 2691.042437949399,
+    "supported_services": [
+      5,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 30,
+    "device_type": "sensor",
+    "processing_delay": 14.995950439343869,
+    "processing_energy": 1.5783044898360792,
+    "initial_energy": 2051.3913096606,
+    "residual_energy": 2051.3913096606,
+    "supported_services": [
+      1,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 31,
+    "device_type": "smart_device",
+    "processing_delay": 3.0917788193128244,
+    "processing_energy": 0.9730116911472855,
+    "initial_energy": 9326.182864819748,
+    "residual_energy": 9326.182864819748,
+    "supported_services": [
+      1,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 32,
+    "device_type": "sensor",
+    "processing_delay": 6.646570798901241,
+    "processing_energy": 0.9839911267318334,
+    "initial_energy": 2418.6642650584918,
+    "residual_energy": 2418.6642650584918,
+    "supported_services": [
+      4,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 33,
+    "device_type": "smart_device",
+    "processing_delay": 2.9484826820912433,
+    "processing_energy": 0.5324973969712921,
+    "initial_energy": 9644.42157775335,
+    "residual_energy": 9644.42157775335,
+    "supported_services": [
+      2,
+      5,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 34,
+    "device_type": "sensor",
+    "processing_delay": 6.2252190908396,
+    "processing_energy": 1.1743940179934973,
+    "initial_energy": 1281.755270016367,
+    "residual_energy": 1281.755270016367,
+    "supported_services": [
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 35,
+    "device_type": "smart_device",
+    "processing_delay": 5.088349035388907,
+    "processing_energy": 0.5990077667181233,
+    "initial_energy": 8085.404820544293,
+    "residual_energy": 8085.404820544293,
+    "supported_services": [
+      1,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 36,
+    "device_type": "sensor",
+    "processing_delay": 10.618168651659436,
+    "processing_energy": 1.043785663916427,
+    "initial_energy": 1577.2033940781912,
+    "residual_energy": 1577.2033940781912,
+    "supported_services": [
+      7,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 37,
+    "device_type": "smart_device",
+    "processing_delay": 3.678324065743892,
+    "processing_energy": 0.9912725604965782,
+    "initial_energy": 11803.986401188607,
+    "residual_energy": 11803.986401188607,
+    "supported_services": [
+      1,
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 38,
+    "device_type": "smart_device",
+    "processing_delay": 4.408322505656387,
+    "processing_energy": 0.2322039249259433,
+    "initial_energy": 5389.139662462202,
+    "residual_energy": 5389.139662462202,
+    "supported_services": [
+      5,
+      7,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 39,
+    "device_type": "sensor",
+    "processing_delay": 13.931316920780073,
+    "processing_energy": 0.7096714786585328,
+    "initial_energy": 2862.7374710599797,
+    "residual_energy": 2862.7374710599797,
+    "supported_services": [
+      2,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 40,
+    "device_type": "smart_device",
+    "processing_delay": 6.328400673777841,
+    "processing_energy": 0.666818621638112,
+    "initial_energy": 6705.120617466593,
+    "residual_energy": 6705.120617466593,
+    "supported_services": [
+      2,
+      6,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 41,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.8632948402118368,
+    "processing_energy": 0.13588554071061892,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      3,
+      5,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 42,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.7829765815227203,
+    "processing_energy": 0.1799725500132905,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 43,
+    "device_type": "smart_device",
+    "processing_delay": 3.6196869607056676,
+    "processing_energy": 0.9403129436969742,
+    "initial_energy": 11881.619584333132,
+    "residual_energy": 11881.619584333132,
+    "supported_services": [
+      5,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 44,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.642943298578097,
+    "processing_energy": 0.1261522511906488,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      3,
+      4,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 45,
+    "device_type": "sensor",
+    "processing_delay": 12.625108000751514,
+    "processing_energy": 1.3090685451794386,
+    "initial_energy": 2557.2529572611165,
+    "residual_energy": 2557.2529572611165,
+    "supported_services": [
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 46,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.8933702395032652,
+    "processing_energy": 0.16328977949537082,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      4,
+      5,
+      6,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 47,
+    "device_type": "smart_device",
+    "processing_delay": 3.8851031767734563,
+    "processing_energy": 0.41249161002508306,
+    "initial_energy": 6308.782821274564,
+    "residual_energy": 6308.782821274564,
+    "supported_services": [
+      1,
+      4,
+      5,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 48,
+    "device_type": "sensor",
+    "processing_delay": 9.486135478331319,
+    "processing_energy": 1.1328224597516063,
+    "initial_energy": 1557.090289333881,
+    "residual_energy": 1557.090289333881,
+    "supported_services": [
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 49,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.7730436016214581,
+    "processing_energy": 0.0749466665905871,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 50,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.8978045872582279,
+    "processing_energy": 0.16761059029228542,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 51,
+    "device_type": "sensor",
+    "processing_delay": 5.819834054948755,
+    "processing_energy": 1.4860597467087837,
+    "initial_energy": 2130.453847688179,
+    "residual_energy": 2130.453847688179,
+    "supported_services": [
+      3,
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 52,
+    "device_type": "sensor",
+    "processing_delay": 14.33259377993709,
+    "processing_energy": 1.8212962605296594,
+    "initial_energy": 2758.540484969086,
+    "residual_energy": 2758.540484969086,
+    "supported_services": [
+      2,
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 53,
+    "device_type": "sensor",
+    "processing_delay": 6.931297883277087,
+    "processing_energy": 0.9923929267965598,
+    "initial_energy": 2728.7058840605728,
+    "residual_energy": 2728.7058840605728,
+    "supported_services": [
+      5,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 54,
+    "device_type": "smart_device",
+    "processing_delay": 6.077108710161582,
+    "processing_energy": 0.8749289306176646,
+    "initial_energy": 8311.49868214407,
+    "residual_energy": 8311.49868214407,
+    "supported_services": [
+      1,
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 55,
+    "device_type": "sensor",
+    "processing_delay": 14.8423584931659,
+    "processing_energy": 0.6734686760439956,
+    "initial_energy": 2799.009465822399,
+    "residual_energy": 2799.009465822399,
+    "supported_services": [
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 56,
+    "device_type": "sensor",
+    "processing_delay": 10.154520099152165,
+    "processing_energy": 1.4494112836486936,
+    "initial_energy": 1670.3765108196017,
+    "residual_energy": 1670.3765108196017,
+    "supported_services": [
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 57,
+    "device_type": "smart_device",
+    "processing_delay": 7.316821454305889,
+    "processing_energy": 0.6605367195274545,
+    "initial_energy": 12183.459154989887,
+    "residual_energy": 12183.459154989887,
+    "supported_services": [
+      3,
+      6,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 58,
+    "device_type": "sensor",
+    "processing_delay": 11.876224130805195,
+    "processing_energy": 1.8389897393170498,
+    "initial_energy": 2720.8811308450427,
+    "residual_energy": 2720.8811308450427,
+    "supported_services": [
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 59,
+    "device_type": "sensor",
+    "processing_delay": 13.041098561731431,
+    "processing_energy": 1.5438676646123575,
+    "initial_energy": 1929.0997691485045,
+    "residual_energy": 1929.0997691485045,
+    "supported_services": [
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 60,
+    "device_type": "sensor",
+    "processing_delay": 14.068547304561134,
+    "processing_energy": 1.1688704181150507,
+    "initial_energy": 1318.3158150859986,
+    "residual_energy": 1318.3158150859986,
+    "supported_services": [
+      4,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 61,
+    "device_type": "sensor",
+    "processing_delay": 12.135448626110565,
+    "processing_energy": 0.851740367021953,
+    "initial_energy": 1671.695073242628,
+    "residual_energy": 1671.695073242628,
+    "supported_services": [
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 62,
+    "device_type": "smart_device",
+    "processing_delay": 7.6564499446045815,
+    "processing_energy": 0.43889012189790677,
+    "initial_energy": 8899.866480637189,
+    "residual_energy": 8899.866480637189,
+    "supported_services": [
+      8,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 63,
+    "device_type": "sensor",
+    "processing_delay": 14.51919692381921,
+    "processing_energy": 0.8363332485796222,
+    "initial_energy": 1137.236740905539,
+    "residual_energy": 1137.236740905539,
+    "supported_services": [
+      0
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 64,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.7990410235437994,
+    "processing_energy": 0.05305700259804985,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      3,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 65,
+    "device_type": "sensor",
+    "processing_delay": 11.47543254056805,
+    "processing_energy": 0.5189782252487796,
+    "initial_energy": 1840.1174816836551,
+    "residual_energy": 1840.1174816836551,
+    "supported_services": [
+      1,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 66,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.453377659152169,
+    "processing_energy": 0.17430609665036875,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      2,
+      4,
+      6,
+      7,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 67,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.865795158786434,
+    "processing_energy": 0.11970626999048477,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 68,
+    "device_type": "smart_device",
+    "processing_delay": 5.185531586874607,
+    "processing_energy": 0.5404030501641719,
+    "initial_energy": 12459.354367136097,
+    "residual_energy": 12459.354367136097,
+    "supported_services": [
+      4,
+      5,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 69,
+    "device_type": "smart_device",
+    "processing_delay": 2.55832010332803,
+    "processing_energy": 0.37727712037802413,
+    "initial_energy": 11917.87155295202,
+    "residual_energy": 11917.87155295202,
+    "supported_services": [
+      5,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 70,
+    "device_type": "sensor",
+    "processing_delay": 7.305380412985078,
+    "processing_energy": 1.5819264969891045,
+    "initial_energy": 1631.0958880119729,
+    "residual_energy": 1631.0958880119729,
+    "supported_services": [
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 71,
+    "device_type": "smart_device",
+    "processing_delay": 4.816381669583061,
+    "processing_energy": 0.5523750385088082,
+    "initial_energy": 6843.636703900817,
+    "residual_energy": 6843.636703900817,
+    "supported_services": [
+      4,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 72,
+    "device_type": "sensor",
+    "processing_delay": 5.653434351139325,
+    "processing_energy": 1.2376198404366021,
+    "initial_energy": 2154.0423129416363,
+    "residual_energy": 2154.0423129416363,
+    "supported_services": [
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 73,
+    "device_type": "sensor",
+    "processing_delay": 10.628395970845641,
+    "processing_energy": 0.9557532677633416,
+    "initial_energy": 2987.8362454204403,
+    "residual_energy": 2987.8362454204403,
+    "supported_services": [
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 74,
+    "device_type": "smart_device",
+    "processing_delay": 5.637905907457776,
+    "processing_energy": 0.8325926638747356,
+    "initial_energy": 7256.871370650346,
+    "residual_energy": 7256.871370650346,
+    "supported_services": [
+      4,
+      6,
+      7,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 75,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.9850468907001968,
+    "processing_energy": 0.09580703664790408,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      3,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 76,
+    "device_type": "sensor",
+    "processing_delay": 11.893711357847689,
+    "processing_energy": 1.2048687185115288,
+    "initial_energy": 1065.2797107618485,
+    "residual_energy": 1065.2797107618485,
+    "supported_services": [
+      4,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 77,
+    "device_type": "smart_device",
+    "processing_delay": 4.7241879584422595,
+    "processing_energy": 0.7499079360569942,
+    "initial_energy": 14239.110444825486,
+    "residual_energy": 14239.110444825486,
+    "supported_services": [
+      3,
+      6,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 78,
+    "device_type": "smart_device",
+    "processing_delay": 3.8245471432686005,
+    "processing_energy": 0.5220068153302445,
+    "initial_energy": 7722.461931442631,
+    "residual_energy": 7722.461931442631,
+    "supported_services": [
+      0,
+      1,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 79,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.7722337208346889,
+    "processing_energy": 0.1377994437916782,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 80,
+    "device_type": "smart_device",
+    "processing_delay": 3.8871029430210076,
+    "processing_energy": 0.45861902902079577,
+    "initial_energy": 14701.847268085772,
+    "residual_energy": 14701.847268085772,
+    "supported_services": [
+      0,
+      8,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 81,
+    "device_type": "smart_device",
+    "processing_delay": 2.3252245122603714,
+    "processing_energy": 0.6147515139685831,
+    "initial_energy": 11226.338726017113,
+    "residual_energy": 11226.338726017113,
+    "supported_services": [
+      0,
+      7,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 82,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.4133075006229474,
+    "processing_energy": 0.08589461934914756,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      4,
+      6,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 83,
+    "device_type": "sensor",
+    "processing_delay": 6.906103709479283,
+    "processing_energy": 1.3990663980123499,
+    "initial_energy": 2492.585090984795,
+    "residual_energy": 2492.585090984795,
+    "supported_services": [
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 84,
+    "device_type": "smart_device",
+    "processing_delay": 7.024855535638528,
+    "processing_energy": 0.6639387071067233,
+    "initial_energy": 11599.407530549193,
+    "residual_energy": 11599.407530549193,
+    "supported_services": [
+      7,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 85,
+    "device_type": "sensor",
+    "processing_delay": 13.560129759873782,
+    "processing_energy": 1.1161626433243672,
+    "initial_energy": 1636.3526544675997,
+    "residual_energy": 1636.3526544675997,
+    "supported_services": [
+      6,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 86,
+    "device_type": "sensor",
+    "processing_delay": 11.636888294845347,
+    "processing_energy": 1.7311213275643325,
+    "initial_energy": 2961.63627731957,
+    "residual_energy": 2961.63627731957,
+    "supported_services": [
+      0,
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 87,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.0700140962839826,
+    "processing_energy": 0.09749917309000997,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      3,
+      5,
+      6,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 88,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.996138884434323,
+    "processing_energy": 0.16201495501068908,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      5,
+      7,
+      8,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 89,
+    "device_type": "sensor",
+    "processing_delay": 14.128290160235547,
+    "processing_energy": 0.7146765801927645,
+    "initial_energy": 1922.2998267099952,
+    "residual_energy": 1922.2998267099952,
+    "supported_services": [
+      4,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 90,
+    "device_type": "smart_device",
+    "processing_delay": 7.393451190201926,
+    "processing_energy": 0.5722026044202413,
+    "initial_energy": 7876.316657484388,
+    "residual_energy": 7876.316657484388,
+    "supported_services": [
+      1,
+      2,
+      5,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 91,
+    "device_type": "sensor",
+    "processing_delay": 10.719226923507389,
+    "processing_energy": 1.3622178952679675,
+    "initial_energy": 2985.384087253795,
+    "residual_energy": 2985.384087253795,
+    "supported_services": [
+      0,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 92,
+    "device_type": "sensor",
+    "processing_delay": 5.080979657614902,
+    "processing_energy": 1.797601096545899,
+    "initial_energy": 2556.6232315401558,
+    "residual_energy": 2556.6232315401558,
+    "supported_services": [
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 93,
+    "device_type": "smart_device",
+    "processing_delay": 6.997033398039131,
+    "processing_energy": 0.9223479347598205,
+    "initial_energy": 12757.409796033808,
+    "residual_energy": 12757.409796033808,
+    "supported_services": [
+      5,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 94,
+    "device_type": "sensor",
+    "processing_delay": 11.274581078167305,
+    "processing_energy": 0.5591338609412261,
+    "initial_energy": 2577.2209680203077,
+    "residual_energy": 2577.2209680203077,
+    "supported_services": [
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 95,
+    "device_type": "sensor",
+    "processing_delay": 6.314118064204854,
+    "processing_energy": 1.86444171847899,
+    "initial_energy": 1653.438251428021,
+    "residual_energy": 1653.438251428021,
+    "supported_services": [
+      2,
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 96,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.916281724145798,
+    "processing_energy": 0.19510761142502187,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      5,
+      7,
+      8,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 97,
+    "device_type": "smart_device",
+    "processing_delay": 7.002158499777929,
+    "processing_energy": 0.6925217712409251,
+    "initial_energy": 14390.530657136553,
+    "residual_energy": 14390.530657136553,
+    "supported_services": [
+      0,
+      3,
+      5
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 98,
+    "device_type": "smart_device",
+    "processing_delay": 3.2312334508572587,
+    "processing_energy": 0.8638542697737062,
+    "initial_energy": 10542.077884611292,
+    "residual_energy": 10542.077884611292,
+    "supported_services": [
+      2,
+      3,
+      5,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 99,
+    "device_type": "sensor",
+    "processing_delay": 14.50555169851427,
+    "processing_energy": 1.783175289958932,
+    "initial_energy": 1198.7092492122606,
+    "residual_energy": 1198.7092492122606,
+    "supported_services": [
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 100,
+    "device_type": "sensor",
+    "processing_delay": 8.98139642744373,
+    "processing_energy": 0.7847128432416193,
+    "initial_energy": 1244.3194381745275,
+    "residual_energy": 1244.3194381745275,
+    "supported_services": [
+      1,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 101,
+    "device_type": "sensor",
+    "processing_delay": 9.482752142698843,
+    "processing_energy": 1.043058460726268,
+    "initial_energy": 2187.3320357360544,
+    "residual_energy": 2187.3320357360544,
+    "supported_services": [
+      3,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 102,
+    "device_type": "sensor",
+    "processing_delay": 11.860974960622327,
+    "processing_energy": 1.235403281216338,
+    "initial_energy": 2819.4016582304585,
+    "residual_energy": 2819.4016582304585,
+    "supported_services": [
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 103,
+    "device_type": "sensor",
+    "processing_delay": 13.88091021988493,
+    "processing_energy": 1.12072035676537,
+    "initial_energy": 2654.8384495600894,
+    "residual_energy": 2654.8384495600894,
+    "supported_services": [
+      1,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 104,
+    "device_type": "smart_device",
+    "processing_delay": 4.109877114158894,
+    "processing_energy": 0.6623348147118839,
+    "initial_energy": 7127.388056720061,
+    "residual_energy": 7127.388056720061,
+    "supported_services": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 105,
+    "device_type": "sensor",
+    "processing_delay": 6.814055582125686,
+    "processing_energy": 0.7148772355130437,
+    "initial_energy": 2314.6892696735913,
+    "residual_energy": 2314.6892696735913,
+    "supported_services": [
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 106,
+    "device_type": "smart_device",
+    "processing_delay": 7.830861912548114,
+    "processing_energy": 0.27340614644355626,
+    "initial_energy": 10304.826886589293,
+    "residual_energy": 10304.826886589293,
+    "supported_services": [
+      5,
+      6,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 107,
+    "device_type": "sensor",
+    "processing_delay": 8.116373697042164,
+    "processing_energy": 0.9865743381176397,
+    "initial_energy": 2882.8148479401107,
+    "residual_energy": 2882.8148479401107,
+    "supported_services": [
+      0
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 108,
+    "device_type": "sensor",
+    "processing_delay": 11.782178929335345,
+    "processing_energy": 1.3897013755883956,
+    "initial_energy": 2053.86821429629,
+    "residual_energy": 2053.86821429629,
+    "supported_services": [
+      0,
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 109,
+    "device_type": "sensor",
+    "processing_delay": 10.993249569444504,
+    "processing_energy": 0.5115306288498243,
+    "initial_energy": 1602.8387240368736,
+    "residual_energy": 1602.8387240368736,
+    "supported_services": [
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 110,
+    "device_type": "smart_device",
+    "processing_delay": 3.3806642964599583,
+    "processing_energy": 0.6469788541397703,
+    "initial_energy": 11680.48171745242,
+    "residual_energy": 11680.48171745242,
+    "supported_services": [
+      0,
+      1,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 111,
+    "device_type": "sensor",
+    "processing_delay": 9.59754250356275,
+    "processing_energy": 0.6167939178136363,
+    "initial_energy": 1626.1212613546722,
+    "residual_energy": 1626.1212613546722,
+    "supported_services": [
+      6,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 112,
+    "device_type": "smart_device",
+    "processing_delay": 4.506163759060883,
+    "processing_energy": 0.2921386981310386,
+    "initial_energy": 5208.565590247488,
+    "residual_energy": 5208.565590247488,
+    "supported_services": [
+      2,
+      7,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 113,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.879654627612077,
+    "processing_energy": 0.06321948219468271,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      3,
+      6,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 114,
+    "device_type": "smart_device",
+    "processing_delay": 5.183628924635889,
+    "processing_energy": 0.3551229650135203,
+    "initial_energy": 12762.282293243354,
+    "residual_energy": 12762.282293243354,
+    "supported_services": [
+      2,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 115,
+    "device_type": "smart_device",
+    "processing_delay": 3.862447103637866,
+    "processing_energy": 0.5615310909605458,
+    "initial_energy": 5568.900508339524,
+    "residual_energy": 5568.900508339524,
+    "supported_services": [
+      1,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 116,
+    "device_type": "sensor",
+    "processing_delay": 9.756290279430695,
+    "processing_energy": 0.7262916150434577,
+    "initial_energy": 1123.7474002022013,
+    "residual_energy": 1123.7474002022013,
+    "supported_services": [
+      5
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 117,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.6264936980368457,
+    "processing_energy": 0.14691906367155788,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      3,
+      7,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 118,
+    "device_type": "sensor",
+    "processing_delay": 11.308865744419794,
+    "processing_energy": 1.0019740208899064,
+    "initial_energy": 1659.3815102354577,
+    "residual_energy": 1659.3815102354577,
+    "supported_services": [
+      4,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 119,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.7324177594166073,
+    "processing_energy": 0.09436881524819327,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      8,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 120,
+    "device_type": "sensor",
+    "processing_delay": 8.625976689820444,
+    "processing_energy": 0.770394384315267,
+    "initial_energy": 1428.3853224178006,
+    "residual_energy": 1428.3853224178006,
+    "supported_services": [
+      3,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 121,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.6566467205964825,
+    "processing_energy": 0.1713565579458952,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      5,
+      6,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 122,
+    "device_type": "sensor",
+    "processing_delay": 7.500032115890071,
+    "processing_energy": 1.4617685543066707,
+    "initial_energy": 2748.233890104474,
+    "residual_energy": 2748.233890104474,
+    "supported_services": [
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 123,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.7767490721271681,
+    "processing_energy": 0.09275945210889927,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      2,
+      4,
+      6,
+      7,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 124,
+    "device_type": "sensor",
+    "processing_delay": 14.105049537274093,
+    "processing_energy": 1.7250548837832507,
+    "initial_energy": 2769.259547436015,
+    "residual_energy": 2769.259547436015,
+    "supported_services": [
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 125,
+    "device_type": "sensor",
+    "processing_delay": 14.173961716127513,
+    "processing_energy": 1.2086823995717464,
+    "initial_energy": 2662.2209718643526,
+    "residual_energy": 2662.2209718643526,
+    "supported_services": [
+      7,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 126,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.2497438333564144,
+    "processing_energy": 0.13040806764710922,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      2,
+      4,
+      6,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 127,
+    "device_type": "smart_device",
+    "processing_delay": 3.4433854328392615,
+    "processing_energy": 0.5332540761668318,
+    "initial_energy": 11643.71301742009,
+    "residual_energy": 11643.71301742009,
+    "supported_services": [
+      5,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 128,
+    "device_type": "sensor",
+    "processing_delay": 10.260594453221705,
+    "processing_energy": 1.2609915448696798,
+    "initial_energy": 2976.662971192935,
+    "residual_energy": 2976.662971192935,
+    "supported_services": [
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 129,
+    "device_type": "smart_device",
+    "processing_delay": 6.881053193336529,
+    "processing_energy": 0.3400713016413668,
+    "initial_energy": 12791.425934782816,
+    "residual_energy": 12791.425934782816,
+    "supported_services": [
+      2,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 130,
+    "device_type": "sensor",
+    "processing_delay": 11.024532988302273,
+    "processing_energy": 1.73351191930983,
+    "initial_energy": 2090.948794689274,
+    "residual_energy": 2090.948794689274,
+    "supported_services": [
+      1,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 131,
+    "device_type": "sensor",
+    "processing_delay": 7.956399493403423,
+    "processing_energy": 1.168873644649479,
+    "initial_energy": 2435.3258226233133,
+    "residual_energy": 2435.3258226233133,
+    "supported_services": [
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 132,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.9218565679046296,
+    "processing_energy": 0.061256174748223896,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      2,
+      4,
+      5,
+      6,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 133,
+    "device_type": "smart_device",
+    "processing_delay": 4.3882042757147,
+    "processing_energy": 0.7196485893648252,
+    "initial_energy": 7496.116530933979,
+    "residual_energy": 7496.116530933979,
+    "supported_services": [
+      0,
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 134,
+    "device_type": "smart_device",
+    "processing_delay": 4.321924280235581,
+    "processing_energy": 0.6493381686077178,
+    "initial_energy": 7617.766765874958,
+    "residual_energy": 7617.766765874958,
+    "supported_services": [
+      3,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 135,
+    "device_type": "smart_device",
+    "processing_delay": 5.299982884921343,
+    "processing_energy": 0.43228982622225093,
+    "initial_energy": 7999.566782367382,
+    "residual_energy": 7999.566782367382,
+    "supported_services": [
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 136,
+    "device_type": "sensor",
+    "processing_delay": 8.614921831246892,
+    "processing_energy": 0.8363624228689348,
+    "initial_energy": 2970.265093460386,
+    "residual_energy": 2970.265093460386,
+    "supported_services": [
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 137,
+    "device_type": "smart_device",
+    "processing_delay": 2.157704160849594,
+    "processing_energy": 0.6432171498076761,
+    "initial_energy": 8689.111655012208,
+    "residual_energy": 8689.111655012208,
+    "supported_services": [
+      1,
+      2,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 138,
+    "device_type": "sensor",
+    "processing_delay": 8.170276704604818,
+    "processing_energy": 0.6112475296479594,
+    "initial_energy": 1931.6663992421177,
+    "residual_energy": 1931.6663992421177,
+    "supported_services": [
+      2,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 139,
+    "device_type": "smart_device",
+    "processing_delay": 5.550850671899631,
+    "processing_energy": 0.664517200912203,
+    "initial_energy": 6712.006230557923,
+    "residual_energy": 6712.006230557923,
+    "supported_services": [
+      0,
+      5,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 140,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.8759079634729986,
+    "processing_energy": 0.1452585637081619,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 141,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.5425602318483165,
+    "processing_energy": 0.0568192704937013,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      3,
+      6,
+      9,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 142,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.3183662253209014,
+    "processing_energy": 0.14628609339518495,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 143,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.978974588970092,
+    "processing_energy": 0.19820350542006349,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      5,
+      6,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 144,
+    "device_type": "sensor",
+    "processing_delay": 7.644728997909133,
+    "processing_energy": 1.0486664596631015,
+    "initial_energy": 1806.508144228717,
+    "residual_energy": 1806.508144228717,
+    "supported_services": [
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 145,
+    "device_type": "sensor",
+    "processing_delay": 12.948972283809457,
+    "processing_energy": 1.008627949928848,
+    "initial_energy": 2877.897133910751,
+    "residual_energy": 2877.897133910751,
+    "supported_services": [
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 146,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.6089790408604063,
+    "processing_energy": 0.09488515137924775,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      3,
+      4,
+      7,
+      8,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 147,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.0525367147986544,
+    "processing_energy": 0.1510709588709525,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 148,
+    "device_type": "sensor",
+    "processing_delay": 9.129601097889264,
+    "processing_energy": 0.8058375240532019,
+    "initial_energy": 2003.6390092219754,
+    "residual_energy": 2003.6390092219754,
+    "supported_services": [
+      0,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 149,
+    "device_type": "smart_device",
+    "processing_delay": 6.210921880751308,
+    "processing_energy": 0.7468381324293338,
+    "initial_energy": 5714.025095785483,
+    "residual_energy": 5714.025095785483,
+    "supported_services": [
+      2,
+      3,
+      8,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 150,
+    "device_type": "sensor",
+    "processing_delay": 14.429097143350544,
+    "processing_energy": 1.8145514397090032,
+    "initial_energy": 1629.3557615969557,
+    "residual_energy": 1629.3557615969557,
+    "supported_services": [
+      6,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 151,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.099100757710596,
+    "processing_energy": 0.0828981138735925,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      7,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 152,
+    "device_type": "sensor",
+    "processing_delay": 6.599820017224502,
+    "processing_energy": 1.5207218202444905,
+    "initial_energy": 2192.8180614639477,
+    "residual_energy": 2192.8180614639477,
+    "supported_services": [
+      6,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 153,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.2936715176487055,
+    "processing_energy": 0.19566175664204277,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      4,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 154,
+    "device_type": "smart_device",
+    "processing_delay": 4.041052838186271,
+    "processing_energy": 0.4348001029179409,
+    "initial_energy": 6581.577543446698,
+    "residual_energy": 6581.577543446698,
+    "supported_services": [
+      4,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 155,
+    "device_type": "sensor",
+    "processing_delay": 10.6735694368891,
+    "processing_energy": 0.6181355724370492,
+    "initial_energy": 2463.8151896892555,
+    "residual_energy": 2463.8151896892555,
+    "supported_services": [
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 156,
+    "device_type": "smart_device",
+    "processing_delay": 2.770348786998577,
+    "processing_energy": 0.5802259024789851,
+    "initial_energy": 10498.03593494944,
+    "residual_energy": 10498.03593494944,
+    "supported_services": [
+      6,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 157,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.1772292120866945,
+    "processing_energy": 0.08718584204990121,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      5,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 158,
+    "device_type": "sensor",
+    "processing_delay": 7.2021738445155945,
+    "processing_energy": 0.6064896290135489,
+    "initial_energy": 2262.205914540198,
+    "residual_energy": 2262.205914540198,
+    "supported_services": [
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 159,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.7894531003806198,
+    "processing_energy": 0.06062860248329802,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      2,
+      3,
+      4,
+      7,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 160,
+    "device_type": "smart_device",
+    "processing_delay": 7.294298450844426,
+    "processing_energy": 0.6609693197767199,
+    "initial_energy": 7429.972423957245,
+    "residual_energy": 7429.972423957245,
+    "supported_services": [
+      1,
+      3,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 161,
+    "device_type": "sensor",
+    "processing_delay": 9.310511824063775,
+    "processing_energy": 1.135367934529881,
+    "initial_energy": 1934.0493360733499,
+    "residual_energy": 1934.0493360733499,
+    "supported_services": [
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 162,
+    "device_type": "sensor",
+    "processing_delay": 13.613491047618306,
+    "processing_energy": 1.325487968674772,
+    "initial_energy": 1101.1766590497625,
+    "residual_energy": 1101.1766590497625,
+    "supported_services": [
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 163,
+    "device_type": "smart_device",
+    "processing_delay": 5.017102297517082,
+    "processing_energy": 0.8821759136386282,
+    "initial_energy": 6574.327279394833,
+    "residual_energy": 6574.327279394833,
+    "supported_services": [
+      1,
+      2,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 164,
+    "device_type": "sensor",
+    "processing_delay": 5.584832920072994,
+    "processing_energy": 1.6036057681835652,
+    "initial_energy": 1121.9151429530316,
+    "residual_energy": 1121.9151429530316,
+    "supported_services": [
+      0,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 165,
+    "device_type": "sensor",
+    "processing_delay": 11.211592554930927,
+    "processing_energy": 1.3444904684584191,
+    "initial_energy": 1199.962497849177,
+    "residual_energy": 1199.962497849177,
+    "supported_services": [
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 166,
+    "device_type": "sensor",
+    "processing_delay": 10.432179622615868,
+    "processing_energy": 0.9537757144683348,
+    "initial_energy": 2967.7066205029646,
+    "residual_energy": 2967.7066205029646,
+    "supported_services": [
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 167,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.9490681282999669,
+    "processing_energy": 0.1495083072449116,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      4,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 168,
+    "device_type": "sensor",
+    "processing_delay": 11.04829827030224,
+    "processing_energy": 1.576418280708197,
+    "initial_energy": 1407.194624654906,
+    "residual_energy": 1407.194624654906,
+    "supported_services": [
+      7,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 169,
+    "device_type": "sensor",
+    "processing_delay": 14.08159046218572,
+    "processing_energy": 0.576198340493796,
+    "initial_energy": 2268.568894618388,
+    "residual_energy": 2268.568894618388,
+    "supported_services": [
+      0,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 170,
+    "device_type": "sensor",
+    "processing_delay": 6.308196607017022,
+    "processing_energy": 1.969696930743254,
+    "initial_energy": 1323.1639525477722,
+    "residual_energy": 1323.1639525477722,
+    "supported_services": [
+      6,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 171,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.373764349734691,
+    "processing_energy": 0.07221406783512241,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      4,
+      5,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 172,
+    "device_type": "sensor",
+    "processing_delay": 7.4952973922292445,
+    "processing_energy": 0.6541904325076784,
+    "initial_energy": 2560.232483742885,
+    "residual_energy": 2560.232483742885,
+    "supported_services": [
+      2,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 173,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.855105998344038,
+    "processing_energy": 0.0743752650650658,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      2,
+      5,
+      6,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 174,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.796096042562919,
+    "processing_energy": 0.17161239748615836,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      2,
+      6,
+      7,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 175,
+    "device_type": "sensor",
+    "processing_delay": 14.18451901229495,
+    "processing_energy": 1.024487636668878,
+    "initial_energy": 2641.072761943124,
+    "residual_energy": 2641.072761943124,
+    "supported_services": [
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 176,
+    "device_type": "sensor",
+    "processing_delay": 14.625343157615555,
+    "processing_energy": 0.898199543784453,
+    "initial_energy": 1216.8050944294223,
+    "residual_energy": 1216.8050944294223,
+    "supported_services": [
+      5,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 177,
+    "device_type": "smart_device",
+    "processing_delay": 4.274871662735251,
+    "processing_energy": 0.7985076481271121,
+    "initial_energy": 6740.27343209944,
+    "residual_energy": 6740.27343209944,
+    "supported_services": [
+      0,
+      4,
+      6,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 178,
+    "device_type": "sensor",
+    "processing_delay": 9.360575154549723,
+    "processing_energy": 1.2798805228498782,
+    "initial_energy": 2613.0217394002075,
+    "residual_energy": 2613.0217394002075,
+    "supported_services": [
+      5
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 179,
+    "device_type": "sensor",
+    "processing_delay": 14.488744859713144,
+    "processing_energy": 1.8811562843270604,
+    "initial_energy": 2246.3108198928185,
+    "residual_energy": 2246.3108198928185,
+    "supported_services": [
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 180,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.2606837560529036,
+    "processing_energy": 0.15003393561585948,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 181,
+    "device_type": "sensor",
+    "processing_delay": 7.101826848826419,
+    "processing_energy": 1.67863824121637,
+    "initial_energy": 2213.3231409595255,
+    "residual_energy": 2213.3231409595255,
+    "supported_services": [
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 182,
+    "device_type": "sensor",
+    "processing_delay": 7.137014009891002,
+    "processing_energy": 1.2097792788639894,
+    "initial_energy": 2802.3616516565085,
+    "residual_energy": 2802.3616516565085,
+    "supported_services": [
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 183,
+    "device_type": "smart_device",
+    "processing_delay": 6.808499610333587,
+    "processing_energy": 0.7340621860690826,
+    "initial_energy": 14878.92453066448,
+    "residual_energy": 14878.92453066448,
+    "supported_services": [
+      5,
+      7,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 184,
+    "device_type": "sensor",
+    "processing_delay": 8.830352924313381,
+    "processing_energy": 0.729207899865722,
+    "initial_energy": 1427.905754211975,
+    "residual_energy": 1427.905754211975,
+    "supported_services": [
+      5,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 185,
+    "device_type": "smart_device",
+    "processing_delay": 4.494645404618936,
+    "processing_energy": 0.36546751161152824,
+    "initial_energy": 9201.435177734256,
+    "residual_energy": 9201.435177734256,
+    "supported_services": [
+      0,
+      6,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 186,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.2323442163253757,
+    "processing_energy": 0.0909402967644885,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 187,
+    "device_type": "sensor",
+    "processing_delay": 5.25678425497466,
+    "processing_energy": 0.9679358665920428,
+    "initial_energy": 2354.6945737008173,
+    "residual_energy": 2354.6945737008173,
+    "supported_services": [
+      3,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 188,
+    "device_type": "sensor",
+    "processing_delay": 7.601563139193047,
+    "processing_energy": 0.9910290004126014,
+    "initial_energy": 1909.3986500329643,
+    "residual_energy": 1909.3986500329643,
+    "supported_services": [
+      4,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 189,
+    "device_type": "smart_device",
+    "processing_delay": 6.991545710931636,
+    "processing_energy": 0.4018172254259045,
+    "initial_energy": 5819.062327616425,
+    "residual_energy": 5819.062327616425,
+    "supported_services": [
+      8,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 190,
+    "device_type": "smart_device",
+    "processing_delay": 3.5374621793731196,
+    "processing_energy": 0.49511613945835314,
+    "initial_energy": 11058.926925603113,
+    "residual_energy": 11058.926925603113,
+    "supported_services": [
+      1,
+      2,
+      4,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 191,
+    "device_type": "sensor",
+    "processing_delay": 11.906144159329804,
+    "processing_energy": 1.4408635934015668,
+    "initial_energy": 1203.802610891953,
+    "residual_energy": 1203.802610891953,
+    "supported_services": [
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 192,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.694340824900318,
+    "processing_energy": 0.1348898833050974,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      5,
+      6,
+      8,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 193,
+    "device_type": "smart_device",
+    "processing_delay": 6.954407590524534,
+    "processing_energy": 0.6739796952509614,
+    "initial_energy": 8223.045829811183,
+    "residual_energy": 8223.045829811183,
+    "supported_services": [
+      1,
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 194,
+    "device_type": "sensor",
+    "processing_delay": 7.58352408858678,
+    "processing_energy": 0.919487732056379,
+    "initial_energy": 2192.3100158748584,
+    "residual_energy": 2192.3100158748584,
+    "supported_services": [
+      0,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 195,
+    "device_type": "smart_device",
+    "processing_delay": 3.146338541162593,
+    "processing_energy": 0.39308484029814394,
+    "initial_energy": 9064.281246705192,
+    "residual_energy": 9064.281246705192,
+    "supported_services": [
+      3,
+      7,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 196,
+    "device_type": "sensor",
+    "processing_delay": 5.545260202389878,
+    "processing_energy": 0.9382049668291663,
+    "initial_energy": 2888.179229591481,
+    "residual_energy": 2888.179229591481,
+    "supported_services": [
+      0,
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 197,
+    "device_type": "sensor",
+    "processing_delay": 9.841985872127086,
+    "processing_energy": 1.5868775016395773,
+    "initial_energy": 2953.2140457661135,
+    "residual_energy": 2953.2140457661135,
+    "supported_services": [
+      1,
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 198,
+    "device_type": "sensor",
+    "processing_delay": 8.608810691493865,
+    "processing_energy": 0.9534013831706534,
+    "initial_energy": 2416.0369714220624,
+    "residual_energy": 2416.0369714220624,
+    "supported_services": [
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 199,
+    "device_type": "sensor",
+    "processing_delay": 5.811874654669843,
+    "processing_energy": 0.8597977665120387,
+    "initial_energy": 2103.9844911555183,
+    "residual_energy": 2103.9844911555183,
+    "supported_services": [
+      0
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 200,
+    "device_type": "sensor",
+    "processing_delay": 7.248094502660239,
+    "processing_energy": 0.7234841016129938,
+    "initial_energy": 1531.2649432812805,
+    "residual_energy": 1531.2649432812805,
+    "supported_services": [
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 201,
+    "device_type": "sensor",
+    "processing_delay": 12.926285662324116,
+    "processing_energy": 1.392566055979107,
+    "initial_energy": 2648.4806026400183,
+    "residual_energy": 2648.4806026400183,
+    "supported_services": [
+      1,
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 202,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.6018008849284229,
+    "processing_energy": 0.1405570461418866,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      3,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 203,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.5084223764548588,
+    "processing_energy": 0.09042665389505809,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      2,
+      7,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 204,
+    "device_type": "sensor",
+    "processing_delay": 6.608248526588355,
+    "processing_energy": 1.1174676346816905,
+    "initial_energy": 1990.9380419286754,
+    "residual_energy": 1990.9380419286754,
+    "supported_services": [
+      0,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 205,
+    "device_type": "sensor",
+    "processing_delay": 10.492196390853316,
+    "processing_energy": 1.8915091412666716,
+    "initial_energy": 1876.2321901447565,
+    "residual_energy": 1876.2321901447565,
+    "supported_services": [
+      0,
+      1
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 206,
+    "device_type": "sensor",
+    "processing_delay": 14.922571393952197,
+    "processing_energy": 1.8693948177262518,
+    "initial_energy": 1922.8957883575667,
+    "residual_energy": 1922.8957883575667,
+    "supported_services": [
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 207,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.2475632570607929,
+    "processing_energy": 0.1574904988987687,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      3,
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 208,
+    "device_type": "sensor",
+    "processing_delay": 12.900061820031134,
+    "processing_energy": 1.1224136353270178,
+    "initial_energy": 2868.4967873650403,
+    "residual_energy": 2868.4967873650403,
+    "supported_services": [
+      0,
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 209,
+    "device_type": "smart_device",
+    "processing_delay": 3.994639734264496,
+    "processing_energy": 0.8102981420959834,
+    "initial_energy": 8772.10054213886,
+    "residual_energy": 8772.10054213886,
+    "supported_services": [
+      3,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 210,
+    "device_type": "smart_device",
+    "processing_delay": 5.541082575857402,
+    "processing_energy": 0.8957602506897724,
+    "initial_energy": 13741.903740543083,
+    "residual_energy": 13741.903740543083,
+    "supported_services": [
+      1,
+      7,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 211,
+    "device_type": "sensor",
+    "processing_delay": 6.441554159669475,
+    "processing_energy": 1.8063994570238289,
+    "initial_energy": 2939.9135880822123,
+    "residual_energy": 2939.9135880822123,
+    "supported_services": [
+      7
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 212,
+    "device_type": "smart_device",
+    "processing_delay": 3.5901366772604533,
+    "processing_energy": 0.6986075204175984,
+    "initial_energy": 8974.833238857735,
+    "residual_energy": 8974.833238857735,
+    "supported_services": [
+      5,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 213,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.5689864530158191,
+    "processing_energy": 0.16942151977433179,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 214,
+    "device_type": "sensor",
+    "processing_delay": 11.818003713527283,
+    "processing_energy": 0.7700853292269667,
+    "initial_energy": 1350.1387101258092,
+    "residual_energy": 1350.1387101258092,
+    "supported_services": [
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 215,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.9487313736856583,
+    "processing_energy": 0.19430436092351633,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 216,
+    "device_type": "sensor",
+    "processing_delay": 6.901319892770883,
+    "processing_energy": 0.8759402000654241,
+    "initial_energy": 2511.1546474833544,
+    "residual_energy": 2511.1546474833544,
+    "supported_services": [
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 217,
+    "device_type": "sensor",
+    "processing_delay": 10.39407758984421,
+    "processing_energy": 1.9572343718170098,
+    "initial_energy": 2061.70474740557,
+    "residual_energy": 2061.70474740557,
+    "supported_services": [
+      2,
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 218,
+    "device_type": "smart_device",
+    "processing_delay": 3.353688174194422,
+    "processing_energy": 0.741058979774813,
+    "initial_energy": 11744.062303002345,
+    "residual_energy": 11744.062303002345,
+    "supported_services": [
+      1,
+      5,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 219,
+    "device_type": "smart_device",
+    "processing_delay": 2.083511930605407,
+    "processing_energy": 0.6292578466152473,
+    "initial_energy": 9547.860277338747,
+    "residual_energy": 9547.860277338747,
+    "supported_services": [
+      4,
+      6,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 220,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.9104378376693312,
+    "processing_energy": 0.06625191532988461,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      5,
+      7,
+      8,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 221,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.832050800110985,
+    "processing_energy": 0.059482556174029325,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 222,
+    "device_type": "sensor",
+    "processing_delay": 9.92624618978206,
+    "processing_energy": 0.6457879979327323,
+    "initial_energy": 2774.5186170570046,
+    "residual_energy": 2774.5186170570046,
+    "supported_services": [
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 223,
+    "device_type": "smart_device",
+    "processing_delay": 6.022917313101027,
+    "processing_energy": 0.7945120972185373,
+    "initial_energy": 14459.74085779432,
+    "residual_energy": 14459.74085779432,
+    "supported_services": [
+      2,
+      6,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 224,
+    "device_type": "sensor",
+    "processing_delay": 11.394929185297038,
+    "processing_energy": 1.9566399680974795,
+    "initial_energy": 1101.157021325746,
+    "residual_energy": 1101.157021325746,
+    "supported_services": [
+      2,
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 225,
+    "device_type": "smart_device",
+    "processing_delay": 5.575889811046521,
+    "processing_energy": 0.4218198767805464,
+    "initial_energy": 14840.28131847739,
+    "residual_energy": 14840.28131847739,
+    "supported_services": [
+      4,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 226,
+    "device_type": "smart_device",
+    "processing_delay": 2.659558087336613,
+    "processing_energy": 0.8931583108054408,
+    "initial_energy": 6318.032295618975,
+    "residual_energy": 6318.032295618975,
+    "supported_services": [
+      3,
+      5,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 227,
+    "device_type": "sensor",
+    "processing_delay": 7.653675083249734,
+    "processing_energy": 0.6901378155691704,
+    "initial_energy": 1841.9211138201583,
+    "residual_energy": 1841.9211138201583,
+    "supported_services": [
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 228,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.5650475553487575,
+    "processing_energy": 0.16748404939705697,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      6,
+      7,
+      9,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 229,
+    "device_type": "sensor",
+    "processing_delay": 6.483338256603646,
+    "processing_energy": 0.689287382457584,
+    "initial_energy": 2248.634988562416,
+    "residual_energy": 2248.634988562416,
+    "supported_services": [
+      6,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 230,
+    "device_type": "smart_device",
+    "processing_delay": 4.722292505452829,
+    "processing_energy": 0.6843414332282503,
+    "initial_energy": 5991.78461679042,
+    "residual_energy": 5991.78461679042,
+    "supported_services": [
+      1,
+      3,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 231,
+    "device_type": "sensor",
+    "processing_delay": 8.125235711418679,
+    "processing_energy": 0.8823346947241688,
+    "initial_energy": 2907.18503523825,
+    "residual_energy": 2907.18503523825,
+    "supported_services": [
+      1,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 232,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.6398451525555161,
+    "processing_energy": 0.06448466488486784,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      2,
+      5,
+      7,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 233,
+    "device_type": "sensor",
+    "processing_delay": 8.535980796337677,
+    "processing_energy": 1.4980107800043732,
+    "initial_energy": 2500.5685005029563,
+    "residual_energy": 2500.5685005029563,
+    "supported_services": [
+      4
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 234,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.0513415759230251,
+    "processing_energy": 0.16439084479052746,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      0,
+      6,
+      8,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 235,
+    "device_type": "smart_device",
+    "processing_delay": 5.94698736799333,
+    "processing_energy": 0.7547769502845272,
+    "initial_energy": 5289.531810612683,
+    "residual_energy": 5289.531810612683,
+    "supported_services": [
+      4,
+      5,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 236,
+    "device_type": "sensor",
+    "processing_delay": 12.544358791249854,
+    "processing_energy": 0.5746437386494357,
+    "initial_energy": 1163.1630550638263,
+    "residual_energy": 1163.1630550638263,
+    "supported_services": [
+      6,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 237,
+    "device_type": "smart_device",
+    "processing_delay": 4.652265120186675,
+    "processing_energy": 0.4185334754918156,
+    "initial_energy": 12549.431436683706,
+    "residual_energy": 12549.431436683706,
+    "supported_services": [
+      5,
+      6
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 238,
+    "device_type": "smart_device",
+    "processing_delay": 3.7366827873046256,
+    "processing_energy": 0.29598747496443933,
+    "initial_energy": 9973.853286133268,
+    "residual_energy": 9973.853286133268,
+    "supported_services": [
+      2,
+      6,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 239,
+    "device_type": "smart_device",
+    "processing_delay": 4.374600181155998,
+    "processing_energy": 0.4482196494686891,
+    "initial_energy": 8395.13281148464,
+    "residual_energy": 8395.13281148464,
+    "supported_services": [
+      1,
+      2,
+      8
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 240,
+    "device_type": "sensor",
+    "processing_delay": 6.464442182776944,
+    "processing_energy": 0.7959077042359749,
+    "initial_energy": 2204.7979705463317,
+    "residual_energy": 2204.7979705463317,
+    "supported_services": [
+      2
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 241,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.4419231581775511,
+    "processing_energy": 0.11959296027695294,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 242,
+    "device_type": "sensor",
+    "processing_delay": 9.422080638362848,
+    "processing_energy": 0.9542306527085194,
+    "initial_energy": 1549.3473349723183,
+    "residual_energy": 1549.3473349723183,
+    "supported_services": [
+      5
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 243,
+    "device_type": "smart_device",
+    "processing_delay": 5.04240690400373,
+    "processing_energy": 0.5701693271418178,
+    "initial_energy": 10543.163713383039,
+    "residual_energy": 10543.163713383039,
+    "supported_services": [
+      0,
+      3,
+      7,
+      9
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 244,
+    "device_type": "smart_device",
+    "processing_delay": 2.9524772478892483,
+    "processing_energy": 0.4982815856810617,
+    "initial_energy": 7828.935786144179,
+    "residual_energy": 7828.935786144179,
+    "supported_services": [
+      5,
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 245,
+    "device_type": "edge_gateway",
+    "processing_delay": 0.9653476063277182,
+    "processing_energy": 0.1484082077054083,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      9,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 246,
+    "device_type": "edge_gateway",
+    "processing_delay": 1.5051745999920838,
+    "processing_energy": 0.17434384593416968,
+    "initial_energy": Infinity,
+    "residual_energy": Infinity,
+    "supported_services": [
+      6,
+      8,
+      10,
+      11
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 247,
+    "device_type": "smart_device",
+    "processing_delay": 3.4251812086815505,
+    "processing_energy": 0.5553589678442206,
+    "initial_energy": 7849.279325633583,
+    "residual_energy": 7849.279325633583,
+    "supported_services": [
+      3,
+      7,
+      8,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 248,
+    "device_type": "sensor",
+    "processing_delay": 13.086238710907864,
+    "processing_energy": 1.2035234075483792,
+    "initial_energy": 2670.226785451415,
+    "residual_energy": 2670.226785451415,
+    "supported_services": [
+      9,
+      10
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  },
+  {
+    "node_id": 249,
+    "device_type": "sensor",
+    "processing_delay": 10.020071146932354,
+    "processing_energy": 0.853667110795149,
+    "initial_energy": 2989.0507024765825,
+    "residual_energy": 2989.0507024765825,
+    "supported_services": [
+      0,
+      3
+    ],
+    "is_malicious": false,
+    "attack_type": "none"
+  }
+]
